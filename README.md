@@ -1,5 +1,5 @@
 # arm-templates-components-examples
- A repository that shows different examples of ARM Template components.
+ A repository that tests different examples of ARM Template components.
  Parameters
  ,Variables
  ,User-defined functions
